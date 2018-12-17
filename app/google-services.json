@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "176313273109",
+    "firebase_url": "https://tugas-12d53.firebaseio.com",
+    "project_id": "tugas-12d53",
+    "storage_bucket": "tugas-12d53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176313273109:android:bf7233acfebbfb41",
+        "android_client_info": {
+          "package_name": "com.example.asus.tugas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176313273109-gnhnpi1enbmbeafb2iklbqlp133jckpc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asus.tugas",
+            "certificate_hash": "067765ef1a9bd509779e9fbcccd11958af69cdd0"
+          }
+        },
+        {
+          "client_id": "176313273109-sc9gnad22udugclrr2nk4s3f2nt519n9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBblhhZn_6nBZN4PMfrmNjc7z_MzFNGsOo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176313273109-sc9gnad22udugclrr2nk4s3f2nt519n9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
